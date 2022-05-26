@@ -8,7 +8,7 @@ export const App: FunctionComponent = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload. (test)
+          Edit <code>src/App.tsx</code> and save to reload. Hello Finality :)
         </p>
         <a
           className="App-link"
