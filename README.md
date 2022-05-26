@@ -1,4 +1,4 @@
-# ODOS React App 
+# React template app 
 
 ## Available Scripts
 
